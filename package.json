@@ -1,0 +1,25 @@
+{
+  "name": "testmaker",
+  "version": "1.0.0",
+  "description": "P-r",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nluksha/TestMaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nluksha/TestMaker/issues"
+  },
+  "homepage": "https://github.com/nluksha/TestMaker#readme",
+  "dependencies": {
+    "puppeteer": "^21.0.2"
+  }
+}
